@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est Doryann Ochaba
+# 👋 Salut, moi c’est Doryann
 
 🔐 Consultant cybersécurité passionné, avec une forte appétence pour :
 - la sécurité défensive (SOC, durcissement, réponse à incident)
